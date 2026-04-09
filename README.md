@@ -16,7 +16,6 @@ Currently focusing on **Swift** and **SwiftUI**
 ## 🛠 Tech Stack
 
 **Swift / SwiftUI**
-**Unity**
 **Git / GitHub**
 **Figma**
 **Adobe Illustrator**
